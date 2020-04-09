@@ -1,0 +1,70 @@
+{
+    "sad": [
+        ["channa mereya", "https://gaana.com/song/channa-mereya"],
+        ["bhula dena", "https://gaana.com/search/Bhula%20Dena"],
+        ["dard dilo ke", "https://gaana.com/song/dard-dilo-ke"],
+        ["main dhoondne ko", "https://gaana.com/song/main-dhoondne-ko-zamaane-mein"],
+        ["humdard", "https://gaana.com/song/humdard"],
+        ["lo maan liya", "https://gaana.com/song/lo-maan-liya"],
+        ["judaai", "https://gaana.com/song/judaai-3"],
+        ["rona sikhade ve", "https://gaana.com/song/rona-sikhade-ve"],
+        ["narazgi", "https://gaana.com/song/narazgi-4"],
+        ["tera chehra", "https://gaana.com/song/tera-chehra-9"]
+    ],
+
+    "happy": [
+        ["senorita", "https://gaana.com/song/senorita-17"],
+        ["kala chashma", "https://gaana.com/song/kala-chashma"],
+        ["char shanivaar", "https://gaana.com/song/chaar-shanivaar"],
+        ["dil dhadakne do", "https://gaana.com/artist/priyanka-chopra"],
+        ["let's nacho", "https://gaana.com/song/lets-nacho"],
+        ["swag se swagat", "https://gaana.com/song/swag-se-swagat"],
+        ["aal-izz-well", "https://gaana.com/lyrics/aal-izz-well"],
+        ["sunny sunny", "https://gaana.com/song/sunny-sunny-1"],
+        ["tum hi bandhu", "https://gaana.com/song/tum-hi-ho-bandhu"],
+        ["baby ko bass pasand hai", "https://gaana.com/song/baby-ko-bass-pasand-hai"]
+    ],
+
+
+    "fearful": [
+        ["aaja gufaon mein aa", "https://gaana.com/song/aaja-gufaon-mein-aa"],
+        ["lori of death", "https://gaana.com/song/lori-of-death"],
+        ["saathi mere saathi", "https://gaana.com/song/sathi-mere-sathi"],
+        ["bhoot hoon main", "https://gaana.com/song/bhoot-hoon-main"],
+        ["lautungi main", "https://gaana.com/song/lautungi-main"],
+        ["yeh sheher hai", "https://gaana.com/lyrics/yeh-sheher-hai"],
+        ["aake darr", "https://gaana.com/song/aake-darr-1"],
+        ["aayega aanewala", "https://gaana.com/song/aayega-aanewala-instrumental"],
+        ["jaaniya", "https://gaana.com/song/jaaniya-1"],
+        ["muskaanein jhooti hai", "https://gaana.com/song/muskaanein-jhooti-hai"]
+    ],
+
+
+    "neutral": [
+        ["khaabon ke parinday", "https://gaana.com/song/khaabon-ke-parinday-1"],
+        ["tum ho", "https://gaana.com/song/tum-ho"],
+        ["dil kashi", "https://gaana.com/song/dil-kashi"],
+        ["der lagi lekin", "https://gaana.com/song/der-lagi-lekin-1"],
+        ["khayalon mein", "https://gaana.com/song/khayalon-mein"],
+        ["tum saath ho", "https://gaana.com/song/agar-tum-saath-ho"],
+        ["saathi rey", "https://gaana.com/song/saathi-rey"],
+        ["shukr tera", "https://gaana.com/song/shukr-tera"],
+        ["kaun tujhe", "https://gaana.com/song/kaun-tujhe-1"],
+        ["pal", "https://gaana.com/song/pal-from-jalebi"]
+    ],
+
+
+    "angry": [
+        ["jee karda", "https://gaana.com/song/jee-karda-6"],
+        ["din pareshaan hai", "https://gaana.com/song/din-pareshan-hai-4"],
+        ["chil gaye naina", "https://gaana.com/song/chhil-gaye-naina"],
+        ["ae dil hai muskil", "https://gaana.com/song/ae-dil-hai-mushkil"],
+        ["daayre", "https://gaana.com/song/daayere"],
+        ["keh ke lunga", "https://gaana.com/song/keh-ke-lunga"],
+        ["channa mereya", "https://gaana.com/song/agar-tum-saath-ho"],
+        ["apna time aaega", "https://gaana.com/song/apna-time-aayega"],
+        ["tujhse naraz nahin zindagi", "https://gaana.com/song/tujhse-naraz-nahin-zindagi"],
+        ["ghamand kar", "https://gaana.com/song/ghamand-kar-from-tanhaji-the-unsung-warrior"]
+    ]
+
+}

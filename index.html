@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>MediaCapture and Streams API</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    </div>
+    <header>
+        <span class="brand">
+            emophony
+            <div></div>
+        </span>
+
+        <nav class="navbar">
+            <a href="#">Home</a>
+            <a href="/about.html">About</a>
+            <a href="/contact.html">Contact Us</a>
+        </nav>
+    </header>
+    <main>
+
+        <div class="row">
+            <div class="col">
+                <div class="video">
+                    <video></video>
+                    <video id="vid2" controls style="display: none"></video>
+                </div>
+                <span class="video-cntrl">
+                <button class="btn" id="btnStart">START RECORDING</button>
+                <button class="btn" id="btnStop" disabled>STOP RECORDING</button>
+            </span>
+
+                <h1 id='emotion'>
+                    Your Emotion :
+                    <div class="loader" id="loader1"></div>
+
+                </h1>
+            </div>
+
+            <div class="col">
+                <h1 class="songs-heading">Recommended Songs</h1>
+                <div class="songs-list" id="songsList">
+                    <!-- <div class="loader" id="loader2"></div> -->
+
+                </div>
+                <!-- <iframe src="" id="gaana" name="gaana" target="_blank"></iframe> -->
+            </div>
+        </div>
+    </main>
+    <script src="main.js"></script>
+</body>
+
+</html>
