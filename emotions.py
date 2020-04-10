@@ -47,7 +47,7 @@ def index():
 	return render_template("index.html")
 '''
 
-def emotion_tag(video = 'em1.mp4'):
+def emotion_tag(video = 'em.mp4'):
 
     mode = 'display'
 
