@@ -4,3 +4,4 @@ tensorflow==2.0.0
 Flask==1.0.2
 Flask-Cors==3.0.7
 gunicorn>=19.9.0
+setuptools>=41.0.0
