@@ -1,12 +1,12 @@
 # Emophony
-Emotion Recognition based Music Recommendation - 
+### Emotion Recognition based Music Recommendation - 
 
 It is a web application which use face emotion recognisation using Convolutional Neural Network(CNN) based deep learning model
 and recommand some list of songs to user for emotion detected.
 
-Frontend is dployed here: https://emophony.netlify.app
+### Frontend is dployed here: https://emophony.netlify.app
 
-To run this app locally in your system simply follow these steps:-
+## To run this app locally in your system simply follow these steps:-
 
 1. First Make sure Python 3+ is installed in your PC if not install it first.
 2. Clone this repository.
@@ -14,6 +14,18 @@ To run this app locally in your system simply follow these steps:-
 4. Then Run app.py file using command "python app.py".
 5. Open index.html file in any browser and allow access to camera and play with it.
 
-Here are some snapshots :-
+## Here are some snapshots :-
 
 ![alt Snapshot1](https://github.com/harshdigwani/Emophony/blob/master/Screenshots/1.png?raw=true)
+
+
+![alt Snapshot2](https://github.com/harshdigwani/Emophony/blob/master/Screenshots/2.png?raw=true)
+
+
+![alt Snapshot3](https://github.com/harshdigwani/Emophony/blob/master/Screenshots/3.png?raw=true)
+
+
+![alt Snapshot4](https://github.com/harshdigwani/Emophony/blob/master/Screenshots/4.png?raw=true)
+
+
+![alt Snapshot5](https://github.com/harshdigwani/Emophony/blob/master/Screenshots/5.png?raw=true)
