@@ -65,7 +65,17 @@ let songs = {
         ["apna time aaega", "https://gaana.com/song/apna-time-aayega"],
         ["tujhse naraz nahin zindagi", "https://gaana.com/song/tujhse-naraz-nahin-zindagi"],
         ["ghamand kar", "https://gaana.com/song/ghamand-kar-from-tanhaji-the-unsung-warrior"]
-    ]
+    ],
+	
+	"disguested" : [
+		["lo maan liya", "https://gaana.com/song/lo-maan-liya"],
+        ["judaai", "https://gaana.com/song/judaai-3"],
+        ["rona sikhade ve", "https://gaana.com/song/rona-sikhade-ve"],
+		["keh ke lunga", "https://gaana.com/song/keh-ke-lunga"],			
+        ["channa mereya", "https://gaana.com/song/agar-tum-saath-ho"],
+        ["apna time aaega", "https://gaana.com/song/apna-time-aayega"],
+        ["tujhse naraz nahin zindagi", "https://gaana.com/song/tujhse-naraz-nahin-zindagi"],	
+	]
 
 }
 let emotionEmoji = {
