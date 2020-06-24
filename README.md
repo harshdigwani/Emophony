@@ -6,7 +6,7 @@ and recommand some list of songs to user for emotion detected.
 
 ### Frontend is dployed here: https://emophony.netlify.app
 
-###Technology used :-
+### Technology used :-
 #### Python 3+
 #### Flask Framework for developing API for Deep Learning model,
 #### Javascript for making Single Page Application,
