@@ -16,4 +16,4 @@ To run this app locally in your system simply follow these steps:-
 
 Here are some snapshots :-
 
-![](Screenpshots/1.png)
+![alt Snapshot1](https://github.com/harshdigwani/Emophony/blob/master/Screenshots/1.png?raw=true)
