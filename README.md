@@ -16,4 +16,4 @@ To run this app locally in your system simply follow these steps:-
 
 Here are some snapshots :-
 
-![](Snapshots/1.png)
+![](Screenpshots/1.png)
