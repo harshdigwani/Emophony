@@ -170,7 +170,7 @@ function displaySongs(songs) {
 
 //  My FUNCTION TO SEND RECORDED VIDEO TO SERVER
 
-const url = 'http://localhost:5000/emotion'
+const url = 'http://emophony.netlify.com/emotion'
 var loader = document.getElementsByClassName('loader')
 
 function upload(myFile) {
